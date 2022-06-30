@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "enter the number "
+echo "enter the number7.3 "
 read num
 result=1
 while [ $num -gt 0 ]
