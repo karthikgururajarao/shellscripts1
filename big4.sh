@@ -3,7 +3,7 @@ a=$1
 b=$2
 c=$3
 d=$4
-echo " $# is the no of arguement "
+echo " $# is the no of arguement and  "
 if [ $# -eq 4 ]
 then
 if [ $a -gt $b -a $a -gt $c -a $a -gt $d ]
